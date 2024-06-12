@@ -3,7 +3,7 @@ It is primarily intended for psychological operations (psyops) and should be use
 Please note that the author of this project is not responsible for any misuse of this tool.
 
 Features
-- Account Creation: This project can create Reddit accounts without human intervention.
+- Account Creation: This project can create Reddit accounts without human intervention(with email verification).
 - Automated Posting: It can post content to subreddits, making it suitable for psyops and other automated tasks.
 
 
