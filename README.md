@@ -5,6 +5,8 @@ Please note that the author of this project is not responsible for any misuse of
 Features
 - Account Creation: This project can create Reddit accounts without human intervention.
 - Automated Posting: It can post content to subreddits, making it suitable for psyops and other automated tasks.
+
+
 Important Notes
 
 - Shadowban Checks: This feature has not been implemented yet, so you may need to manually monitor for shadowbans.
